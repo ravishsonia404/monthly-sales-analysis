@@ -19,3 +19,6 @@ TOOLS & TECHNOLOGIES USED:-
 * Matplotlib
 * Jupyter Notebook
 * Git and Github
+
+
+MONTHLY SALES VISUALIZATION:- The chart below shows total revenue aggregated by month .January has the highest sales, while February has the lowest.
