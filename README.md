@@ -22,3 +22,5 @@ TOOLS & TECHNOLOGIES USED:-
 
 
 MONTHLY SALES VISUALIZATION:- The chart below shows total revenue aggregated by month .January has the highest sales, while February has the lowest.
+
+![Monthly Sales](images/monthly_sales-checkpoint.png)
